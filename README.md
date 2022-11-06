@@ -21,5 +21,3 @@ what expect:
 sample table schema: 
 
 id	block_number	from_account	to_account	balance_change	timestamp
-1	10159784		0x123			0x456		 100000000		2022-05-04 10:00:00
-2	10159786		0xabc			0xdef		 2500000000		2022-05-04 10:00:45
